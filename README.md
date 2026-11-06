@@ -1,4 +1,4 @@
-# Network Sniffer (CodeAlpha Internship)
+# Network Sniffer
 
 ## Description
 This project is a Python-based network sniffer that captures live network packets and displays important details like source IP, destination IP, and protocol.
